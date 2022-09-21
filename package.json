@@ -28,7 +28,7 @@
     "vuedraggable": "^2.23.2",
     "vuelidate": "^0.7.4",
     "vuelidate-property-decorators": "^1.0.28",
-    "vuetify": "^2.1.0",
+    "vuetify": "^2.6.10",
     "vuex": "^3.1.2",
     "vuex-class": "^0.3.2"
   },
